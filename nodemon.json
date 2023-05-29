@@ -1,0 +1,11 @@
+{
+    "env":{
+        "MONGO_USER": "",
+        "MONGO_PASSWORD": "",
+        "MONGO_DEFAULT_DATABASE": "",
+        "STRIPE_KEY":"",
+        "MAIL_EMAIL":"",
+        "SEND_IN_BLUE_EMAIL":"",
+        "SEND_IN_BLUE_PASSWORD":""
+    }
+}
